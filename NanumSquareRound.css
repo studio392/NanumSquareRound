@@ -1,0 +1,39 @@
+/* 
+ * Nanum Square Round Web Fonts
+ * https://github.com/studio392/NanumSquareRound
+ *
+ * Created by NAVER. (http://www.naver.com)
+ */
+ 
+@font-face {
+ font-family: 'NanumSquareRound';
+ font-weight: 200;
+ src: url(./NanumSquareRoundL.eot);
+ src: url(./NanumSquareRoundL.eot?#iefix) format('embedded-opentype'),
+      url(./NanumSquareRoundL.woff) format('woff'),
+      url(./NanumSquareRoundL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquareRound';
+ font-weight: 400;
+ src: url(./NanumSquareRoundR.eot);
+ src: url(./NanumSquareRoundR.eot?#iefix) format('embedded-opentype'),
+      url(./NanumSquareRoundR.woff) format('woff'),
+      url(./NanumSquareRoundR.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquareRound';
+ font-weight: 600;
+ src: url(./NanumSquareRoundB.eot);
+ src: url(./NanumSquareRoundB.eot?#iefix) format('embedded-opentype'),
+      url(./NanumSquareRoundB.woff) format('woff'),
+      url(./NanumSquareRoundB.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'NanumSquareRound';
+ font-weight: 800;
+ src: url(./NanumSquareRoundEB.eot);
+ src: url(./NanumSquareRoundEB.eot?#iefix) format('embedded-opentype'),
+      url(./NanumSquareRoundEB.woff) format('woff'),
+      url(./NanumSquareRoundEB.ttf) format('truetype');
+}
